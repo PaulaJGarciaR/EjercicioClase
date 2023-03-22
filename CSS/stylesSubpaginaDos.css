@@ -1,9 +1,8 @@
+body{
+    background-color: rgb(196, 255, 212);
+}
 img{
     width: 30%;
-    margin-left:3%;
-}
-body{
-    background-color: rgb(244, 224, 137);
 }
 a{
     text-decoration: none;

@@ -1,6 +1,11 @@
 body{
-    background-color: rgb(255, 127, 138);
+    background-color: rgb(255, 186, 234);
 }
 img{
-    width: 50%;
+    width: 27%;
+    margin-left: 2%;
+}
+a{
+    text-decoration: none;
+    font-size: 50px;
 }
